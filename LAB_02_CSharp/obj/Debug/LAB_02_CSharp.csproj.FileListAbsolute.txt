@@ -1,0 +1,7 @@
+E:\2k1s\LAB\OOP\LAB_02_CSharp\LAB_02_CSharp\bin\Debug\LAB_02_CSharp.exe.config
+E:\2k1s\LAB\OOP\LAB_02_CSharp\LAB_02_CSharp\bin\Debug\LAB_02_CSharp.exe
+E:\2k1s\LAB\OOP\LAB_02_CSharp\LAB_02_CSharp\bin\Debug\LAB_02_CSharp.pdb
+E:\2k1s\LAB\OOP\LAB_02_CSharp\LAB_02_CSharp\obj\Debug\LAB_02_CSharp.csprojAssemblyReference.cache
+E:\2k1s\LAB\OOP\LAB_02_CSharp\LAB_02_CSharp\obj\Debug\LAB_02_CSharp.csproj.CoreCompileInputs.cache
+E:\2k1s\LAB\OOP\LAB_02_CSharp\LAB_02_CSharp\obj\Debug\LAB_02_CSharp.exe
+E:\2k1s\LAB\OOP\LAB_02_CSharp\LAB_02_CSharp\obj\Debug\LAB_02_CSharp.pdb
